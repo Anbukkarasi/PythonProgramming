@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
-
+//test AP
 class Main {
   public static void main(String[] args) {
     Scanner s = new Scanner(System.in);
